@@ -1,0 +1,97 @@
+﻿Build started 12/10/2011 10:28:08 PM.
+     1>Project "E:\منوعات\project c++2\project c++\project c++.vcxproj" on node 2 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "E:\منوعات\project c++2\Release\".
+       InitializeBuildStatus:
+         Creating "Release\project c++.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Functions.cpp main.cpp player.cpp team.cpp
+         Functions.cpp
+     1>Functions.cpp(49): warning C4018: '<' : signed/unsigned mismatch
+     1>Functions.cpp(81): warning C4018: '<' : signed/unsigned mismatch
+     1>Functions.cpp(91): warning C4018: '<' : signed/unsigned mismatch
+     1>Functions.cpp(93): warning C4018: '<' : signed/unsigned mismatch
+     1>Functions.cpp(121): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>Functions.cpp(137): warning C4018: '<' : signed/unsigned mismatch
+     1>Functions.cpp(139): warning C4018: '<' : signed/unsigned mismatch
+     1>Functions.cpp(187): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getche. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\conio.h(129) : see declaration of 'getche'
+     1>Functions.cpp(218): warning C4018: '<' : signed/unsigned mismatch
+     1>Functions.cpp(229): warning C4018: '<' : signed/unsigned mismatch
+     1>Functions.cpp(295): warning C4018: '<' : signed/unsigned mismatch
+     1>Functions.cpp(308): warning C4018: '<' : signed/unsigned mismatch
+     1>Functions.cpp(336): warning C4018: '<' : signed/unsigned mismatch
+     1>Functions.cpp(348): warning C4018: '<' : signed/unsigned mismatch
+     1>Functions.cpp(375): warning C4018: '<' : signed/unsigned mismatch
+     1>Functions.cpp(382): warning C4018: '<' : signed/unsigned mismatch
+     1>Functions.cpp(413): warning C4018: '<' : signed/unsigned mismatch
+     1>Functions.cpp(421): warning C4018: '<' : signed/unsigned mismatch
+     1>Functions.cpp(449): warning C4018: '<' : signed/unsigned mismatch
+     1>Functions.cpp(457): warning C4018: '<' : signed/unsigned mismatch
+     1>Functions.cpp(487): warning C4018: '<' : signed/unsigned mismatch
+     1>Functions.cpp(493): warning C4018: '<' : signed/unsigned mismatch
+     1>Functions.cpp(528): warning C4018: '<' : signed/unsigned mismatch
+     1>Functions.cpp(530): warning C4018: '<' : signed/unsigned mismatch
+     1>Functions.cpp(568): warning C4018: '<' : signed/unsigned mismatch
+     1>Functions.cpp(570): warning C4018: '<' : signed/unsigned mismatch
+     1>Functions.cpp(608): warning C4018: '<' : signed/unsigned mismatch
+     1>Functions.cpp(610): warning C4018: '<' : signed/unsigned mismatch
+     1>Functions.cpp(650): warning C4018: '<' : signed/unsigned mismatch
+     1>Functions.cpp(652): warning C4018: '<' : signed/unsigned mismatch
+     1>Functions.cpp(666): warning C4018: '<' : signed/unsigned mismatch
+     1>Functions.cpp(678): warning C4018: '<' : signed/unsigned mismatch
+     1>Functions.cpp(680): warning C4018: '<' : signed/unsigned mismatch
+     1>Functions.cpp(693): warning C4018: '<' : signed/unsigned mismatch
+     1>Functions.cpp(704): warning C4018: '<' : signed/unsigned mismatch
+     1>Functions.cpp(706): warning C4018: '<' : signed/unsigned mismatch
+     1>Functions.cpp(714): warning C4018: '<' : signed/unsigned mismatch
+     1>Functions.cpp(716): warning C4018: '<' : signed/unsigned mismatch
+     1>Functions.cpp(738): warning C4018: '<' : signed/unsigned mismatch
+     1>Functions.cpp(740): warning C4018: '<' : signed/unsigned mismatch
+     1>Functions.cpp(753): warning C4018: '<' : signed/unsigned mismatch
+     1>Functions.cpp(769): warning C4018: '<' : signed/unsigned mismatch
+     1>Functions.cpp(771): warning C4018: '<' : signed/unsigned mismatch
+     1>Functions.cpp(780): warning C4018: '<' : signed/unsigned mismatch
+     1>Functions.cpp(782): warning C4018: '<' : signed/unsigned mismatch
+     1>Functions.cpp(793): warning C4018: '<' : signed/unsigned mismatch
+     1>Functions.cpp(802): warning C4018: '<' : signed/unsigned mismatch
+     1>Functions.cpp(804): warning C4018: '<' : signed/unsigned mismatch
+     1>Functions.cpp(813): warning C4018: '<' : signed/unsigned mismatch
+     1>Functions.cpp(815): warning C4018: '<' : signed/unsigned mismatch
+     1>Functions.cpp(826): warning C4018: '<' : signed/unsigned mismatch
+     1>Functions.cpp(835): warning C4018: '<' : signed/unsigned mismatch
+     1>Functions.cpp(841): warning C4018: '<' : signed/unsigned mismatch
+     1>Functions.cpp(895): warning C4018: '<' : signed/unsigned mismatch
+     1>Functions.cpp(897): warning C4018: '<' : signed/unsigned mismatch
+     1>Functions.cpp(905): warning C4018: '<' : signed/unsigned mismatch
+     1>Functions.cpp(907): warning C4018: '<' : signed/unsigned mismatch
+     1>Functions.cpp(930): warning C4018: '<' : signed/unsigned mismatch
+     1>Functions.cpp(932): warning C4018: '<' : signed/unsigned mismatch
+     1>Functions.cpp(940): warning C4018: '<' : signed/unsigned mismatch
+     1>Functions.cpp(942): warning C4018: '<' : signed/unsigned mismatch
+     1>Functions.cpp(962): warning C4018: '<' : signed/unsigned mismatch
+     1>Functions.cpp(964): warning C4018: '<' : signed/unsigned mismatch
+     1>Functions.cpp(977): warning C4018: '<' : signed/unsigned mismatch
+     1>Functions.cpp(1085): warning C4018: '<' : signed/unsigned mismatch
+     1>Functions.cpp(1087): warning C4018: '<' : signed/unsigned mismatch
+         main.cpp
+         player.cpp
+         team.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\منوعات\project c++2\Release\project c++.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\project c++.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\منوعات\project c++2\Release\project c++.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\منوعات\project c++2\Release\project c++.lib" /MACHINE:X86 Release\Functions.obj
+         Release\main.obj
+         Release\player.obj
+         Release\team.obj
+         Generating code
+         Finished generating code
+         project c++.vcxproj -> E:\منوعات\project c++2\Release\project c++.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\منوعات\project c++2\Release\project c++.exe;#1" /manifest "Release\project c++.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Deleting file "Release\project c++.unsuccessfulbuild".
+         Touching "Release\project c++.lastbuildstate".
+     1>Done Building Project "E:\منوعات\project c++2\project c++\project c++.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.52

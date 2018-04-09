@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="project c++">
+</Property><Property Name="Solution File" Value="E:\منوعات\project c++2\project c++.sln">
+</Property><Property Name="User Options File" Value="E:\منوعات\project c++2\project c++.suo">
+</Property><Property Name="Date" Value="Saturday, December 10, 2011">
+</Property><Property Name="Time" Value="22:24 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="project c++.sln" Description="File successfully backed up as E:\منوعات\project c++2\project c++.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="project c++.suo" Description="File successfully backed up as E:\منوعات\project c++2\project c++.suo.old">
+</Event><Event ErrorLevel="0" Project="project c++" Source="project c++\project c++.vcproj" Description="Converting project file 'E:\منوعات\project c++2\project c++\project c++.vcproj'.">
+</Event><Event ErrorLevel="1" Project="project c++" Source="project c++\project c++.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="project c++" Source="project c++\project c++.vcproj" Description="Done converting to new project file 'E:\منوعات\project c++2\project c++\project c++.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="project c++" Source="project c++\project c++.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="project c++.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="project c++.sln" Description="Converted">
+</Event></UpgradeLog>
